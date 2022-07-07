@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **ASP.NET Core & Unity**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
