@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericu98&title=Commits,Repositories,PullRequest&theme=radical" alt="ericu98" /></a> </p>
 
 
-- 🌱 I’m currently learning **ASP.NET Core & Unity**
-
 <p align="left">
 </p>
 
