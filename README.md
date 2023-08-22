@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Webdevelopment**
 
-- 💬 Ask me about **Next.js**
-
 - 📫 How to reach me **developer@takashii.de**
 
 <h3 align="left">Connect with me:</h3>
